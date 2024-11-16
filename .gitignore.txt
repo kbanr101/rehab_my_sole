@@ -1,0 +1,8 @@
+# Ignore sensitive WordPress files and directories
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/backups/
+*.log
+*.sqlite
+*.swp
